@@ -2,6 +2,9 @@
 
 Meteor wrapper of [lipis/flag-icon-css](https://github.com/lipis/flag-icon-css) — CSS for vector based country flags. See the [demo](http://lipis.github.io/flag-icon-css/).
 
+Made by [![Professional Meteor Development Studio](http://s30.postimg.org/jfno1g71p/jss_xs.png)](https://jssolutionsdev.com) - [Professional Meteor Development Company](https://jssolutionsdev.com)
+
+
 # Usage
 
 First of all you should add this package to your Meteor project: `meteor add jss:flag-icon`
